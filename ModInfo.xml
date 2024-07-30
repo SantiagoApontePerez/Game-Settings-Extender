@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <Name value="Extended_GameSettings" />
+  <DisplayName value="Santi's Extended Game Settings" />
+  <Description value="Extends the settings slider" />
+  <Author value="Santi Aponte" />
+  <Version value="1.0.0" />
+  <Website value="https://google.com" />
+</xml>
