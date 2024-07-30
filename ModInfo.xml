@@ -3,7 +3,7 @@
   <Name value="Extended_GameSettings" />
   <DisplayName value="Santi's Extended Game Settings" />
   <Description value="Extends the settings slider" />
-  <Author value="Santi Aponte" />
+  <Author value="Santiago Aponte-Perez" />
   <Version value="1.0.0" />
-  <Website value="https://google.com" />
+  <Website value="https://github.com/SantiagoApontePerez/Game-Settings-Extender" />
 </xml>
